@@ -1,0 +1,89 @@
+
+planes.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion
+  rotate: false
+  xy: 1, 1
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+game_over
+  rotate: false
+  xy: 1027, 626
+  size: 1090, 399
+  orig: 1090, 399
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 1027, 482
+  size: 490, 142
+  orig: 490, 142
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 1027, 328
+  size: 470, 152
+  orig: 470, 152
+  offset: 0, 0
+  index: -1
+buttonExit
+  rotate: false
+  xy: 1027, 90
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 1265, 90
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+restartButton
+  rotate: false
+  xy: 1519, 548
+  size: 376, 76
+  orig: 376, 76
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 1519, 406
+  size: 268, 140
+  orig: 268, 140
+  offset: 0, 0
+  index: -1
+main_plane
+  rotate: false
+  xy: 1503, 308
+  size: 236, 96
+  orig: 236, 96
+  offset: 0, 0
+  index: -1
+enemy0
+  rotate: false
+  xy: 1503, 205
+  size: 230, 101
+  orig: 230, 101
+  offset: 0, 0
+  index: -1
+bulletEnemyPlane
+  rotate: false
+  xy: 1027, 55
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+bulletMainPlane
+  rotate: false
+  xy: 1897, 591
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
