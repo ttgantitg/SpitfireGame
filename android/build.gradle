@@ -17,7 +17,7 @@ android {
         exclude 'META-INF/robovm/ios/robovm.xml'
     }
     defaultConfig {
-        applicationId "com.androidgame"
+        applicationId "com.androidgame.ttgantitg"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
@@ -86,7 +86,7 @@ task run(type: Exec) {
     }
 
     def adb = path + "/platform-tools/adb"
-    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.androidgame/com.androidgame.AndroidLauncher'
+    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.androidgame/AndroidLauncher'
 }
 
 // sets up the Android Eclipse project, using the old Ant based build.
