@@ -1,5 +1,5 @@
 # SpitfireGame
-Android game "Spitfire"
+Android game "Spitfire".
 <br>
 <img height="300" src="https://i.ibb.co/0jXs7NH/sc4.jpg">
 <img height="300" src="https://i.ibb.co/zrRLGVC/sc5.jpg">
