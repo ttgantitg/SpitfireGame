@@ -1,5 +1,6 @@
 # SpitfireGame
 Android game "Spitfire".
+Tech stack: Java, LibGDX.
 <br>
 <br>
 <img height="300" src="https://i.ibb.co/0jXs7NH/sc4.jpg">
